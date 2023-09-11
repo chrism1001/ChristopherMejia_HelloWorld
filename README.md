@@ -18,5 +18,5 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/heMUGBB' title='Video Walkthrough' width='50dp' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdqN3dnOHNkODV6NTZ2MDFoaWhjZThoZ3k3ZWE2ejRnenkwZ20zeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8O7eV8kcgNNcnCEGY0/giphy.gif' title='Video Walkthrough' width='30' alt='Video Walkthrough' />
 
